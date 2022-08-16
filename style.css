@@ -1,3 +1,11 @@
 body {
-    background-color: rgb(182, 94, 136);
+    background-color: rgb(99, 51, 74);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
 }
