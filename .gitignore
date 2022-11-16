@@ -1,5 +1,3 @@
 .vscode/
 *.log
 !important.log
-*.svg
-*.psd
